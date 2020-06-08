@@ -29,3 +29,5 @@ server.get("/search", (req, res) =>{
 
 //ligar o servidor
 server.listen(3000)
+
+//arrumar este ocdigo ainda
